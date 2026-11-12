@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Sandip Begha 👋
 
-<!--
-**sandipbeghaa/sandipbeghaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graphic Designer transitioning into Software Development | Python, Django & JavaScript | Open to Europe**
 
-Here are some ideas to get you started:
+I combine a professional background in graphic design with growing skills in Python, Django, JavaScript, HTML, and CSS to build practical, full-stack web applications and user-friendly interfaces. Currently learning **Python & Django**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **Languages & Frameworks:** Python, Django, JavaScript (ES6+), HTML5, CSS3
+- **Tools & Workflow:** Git, GitHub, VS Code
+- **Design Background:** Adobe Photoshop, Illustrator, Lightroom, After Effects, UI & Visual Hierarchy
+
+### 🚀 Featured Projects
+
+- **[Business Website](https://github.com)** — Responsive agency landing page and separate `/admin` interface built with HTML, CSS, and JavaScript. [Live Demo] https://sandipbeghaa.github.io/Business-Website/
+- **[Personal Portfolio](https://github.com)** — My central portfolio highlighting my design experience and coding projects. [Live Site] https://sandipbeghaa.github.io/
+- **[Graphical Expense Tracker](https://github.com)** — Desktop expense manager built with Python and Tkinter featuring category totals and local JSON storage.
+- **[Live Inventory Manager](https://github.com)** — Interactive Python and Tkinter desktop tool with a live-updating item table.
+
+### 🌱 Currently Learning
+
+- **Python & Django** — Building full-stack web applications, backend routing, models, and database-driven features
+- Strengthening core JavaScript and DOM manipulation
+- Applying visual design hierarchy to full-stack web interfaces
+
+### 📫 Connect With Me
+
+- **GitHub:** [github.com/sandipbeghaa](https://github.com/sandipbeghaa)
+- **Portfolio:** [sandipbeghaa.github.io](https://sandipbeghaa.github.io/)
